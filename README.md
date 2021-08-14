@@ -14,13 +14,13 @@ Created: 08/13/2021
 Game Description: 
 
     As a classic tower defense game, the goal of the game is to survive the 
-incoming zombie attacks by planting plants, the main “tower” to defeat zombies.
+    incoming zombie attacks by planting plants, the main “tower” to defeat zombies.
 
     A player can buy and plant plants using suns, which can be collected from
-buying sunflowers
+    buying sunflowers
 
     A player loses the round, or dies, however, when a zombie gets to the house 
-(assuming the lawn mower on that row is already used). 
+    (assuming the lawn mower on that row is already used). 
     “The zombies ate your brain!!!”
 
     To win the round, a player must survive without dying. 
